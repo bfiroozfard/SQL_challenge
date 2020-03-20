@@ -1,6 +1,4 @@
-# SQL_challenge
-# SQL Homework - Employee Database: A Mystery in Two Parts
-
+# SQL_challenge--Employee Database
 
 1. Data Modeling
 
@@ -64,7 +62,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
 * Create a `.sql` file of your queries.
 
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
+*  Create a Jupyter Notebook of the bonus analysis.
 
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
